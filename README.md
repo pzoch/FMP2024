@@ -7,4 +7,5 @@ Office hours: by appointment
 
 
 ## Log and announcements 
++ 24/2: Government purchases in the Neoclassical Growth Model. 
 + 17/2: Course logistics and Neoclassical Growth Model recap. You can listen to me talking about some empirical results regarding gov. purchases [here](https://www.youtube.com/watch?v=h35P9iQ8WYE) (in Polish only).
