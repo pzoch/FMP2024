@@ -8,7 +8,7 @@ Office hours: by appointment
 
 ## Log and announcements 
 > [!IMPORTANT]
-> **Problem Set 1** is available. It is due on **14.04.2025, 11:59 PM**. 
+> **Problem Set 1** is available. It is due on **13.04.2025, 11:59 PM**. 
 + 24/3: Asset pricing approach to fiscal capacity.
 + 17/3: Intertemporal government budget constraint. 
 + 10/3: Government purchases multiplier in empirical studies. Classic approach do debt sustainability. 
