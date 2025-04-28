@@ -7,8 +7,10 @@ Office hours: by appointment
 
 
 ## Log and announcements 
-> [!IMPORTANT]
-> **Problem Set 1** is available. It is due on **13.04.2025, 11:59 PM**. 
++ 28/4: Fiscal policy responses to wars in the U.S. (Sargent & Hall).
++ 14/4: Primal approach to optimal policy. 
++ 7/4: Debt management with complete and incomplete markets.
++ 31/3: Asset pricing approach to fiscal capacity II.
 + 24/3: Asset pricing approach to fiscal capacity.
 + 17/3: Intertemporal government budget constraint. 
 + 10/3: Government purchases multiplier in empirical studies. Classic approach do debt sustainability. 
